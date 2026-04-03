@@ -112,18 +112,28 @@ cd client
 npm run dev
 
 🎯 Future Enhancements
+
    📈 Analytics & progress tracking
+   
    🎥 Video streaming support
+   
    🧑‍🤝‍🧑 Community / discussion forums
+   
    📱 Mobile responsiveness improvements
    
+   
 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 📬 Contact
+
 Rajat Sen
+
 Full Stack Developer (MERN)
+
 📧 Connect on LinkedIn - www.linkedin.com/in/rajatsen13
 
 ⭐ Acknowledgement
+
 If you found this project helpful, consider giving it a ⭐ on GitHub!
