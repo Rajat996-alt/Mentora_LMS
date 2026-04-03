@@ -62,14 +62,22 @@ Integrations:
 
 📁 Project Structure
 Mentora/
+
 │
-├── client/         # Frontend (React)
+├── client/ 
+
 ├── server/         # Backend (Node + Express)
+
 ├── models/         # MongoDB schemas
+
 ├── routes/         # API routes
+
 ├── controllers/    # Business logic
+
 ├── middleware/     # Auth & validations
+
 └── config/         # DB & environment configs
+
 
 ⚙️ Installation & Setup
 1. Clone the repository
