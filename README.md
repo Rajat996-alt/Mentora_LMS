@@ -7,25 +7,33 @@ Mentora is a full-stack Learning Management System (LMS) designed to provide a s
 🔐 Authentication & Authorization
 
 -> JWT-based secure login/signup
+
 -> Role-based access (Student / Educator)
 
 📚 Course Management
+
 -> Create, update, and manage courses
+
 -> Structured modules and lessons
 
 💳 Payment Integration
+
 -> Razorpay integration for course purchases
 
 🤖 AI-Powered Search
+
 -> Smart course discovery using AI (Gemini API)
 
 📊 Dashboard
+
 -> Personalized dashboards for students & instructors
 
 ⚡ Scalable Backend
+
 -> Modular architecture with RESTful APIs
 
 🛠️ Tech Stack
+
 Frontend:
 -React (Vite)
 -Redux Toolkit
