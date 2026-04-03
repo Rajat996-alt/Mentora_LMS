@@ -35,19 +35,29 @@ Mentora is a full-stack Learning Management System (LMS) designed to provide a s
 🛠️ Tech Stack
 
 Frontend:
+
 -React (Vite)
+
 -Redux Toolkit
+
 -Tailwind CSS
 
 Backend:
+
 -Node.js
+
 -Express.js
+
 -JWT Authentication
 
 Database:
+
 -MongoDB
--Integrations:
+
+Integrations:
+
 -Razorpay API
+
 -Gemini AI API
 
 📁 Project Structure
