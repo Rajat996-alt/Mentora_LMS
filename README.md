@@ -5,6 +5,7 @@ Mentora is a full-stack Learning Management System (LMS) designed to provide a s
 🚀 Features
 
 🔐 Authentication & Authorization
+
 -> JWT-based secure login/signup
 -> Role-based access (Student / Educator)
 
